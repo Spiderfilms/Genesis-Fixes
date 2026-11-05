@@ -2,6 +2,6 @@ A list of fixes and changes of the "Genesis" shaderpack that is made to mimic ol
 
 https://modrinth.com/shader/genesis-shader Genesis Modrinth Page
 
-[https://github.com/Reckobot/genesis Genesis](url) Github Page
+https://github.com/Reckobot/genesis Genesis Github Page
 
-[https://betterthanmicrosoft.neocities.org/](url) Better than Microsoft! Website
+https://betterthanmicrosoft.neocities.org Better than Microsoft! Website
